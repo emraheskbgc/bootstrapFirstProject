@@ -1,0 +1,2 @@
+# bootstrapFirstProject
+ilk bootstrap projem
